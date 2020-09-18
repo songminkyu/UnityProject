@@ -654,6 +654,7 @@ GameObject:
   - component: {fileID: 797233421}
   - component: {fileID: 797233420}
   - component: {fileID: 797233419}
+  - component: {fileID: 797233423}
   m_Layer: 12
   m_Name: Background
   m_TagString: Untagged
@@ -736,6 +737,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &797233423
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 797233418}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e7a2e945ceafcf43acf2fb3da591004, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bgMaterial: {fileID: 2100000, guid: 4596325469894f940ac60c80a02d6d9c, type: 2}
+  scrollSpeed: 0.2
 --- !u!1 &1079107418
 GameObject:
   m_ObjectHideFlags: 0
