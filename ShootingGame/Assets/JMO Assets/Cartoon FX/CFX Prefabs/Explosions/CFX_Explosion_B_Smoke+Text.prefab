@@ -18820,7 +18820,7 @@ GameObject:
   - component: {fileID: 198194127032045410}
   - component: {fileID: 199200332811060622}
   - component: {fileID: 114566962382578006}
-  - component: {fileID: 7409553172765284569}
+  - component: {fileID: 8041424284187038029}
   m_Layer: 0
   m_Name: CFX_Explosion_B_Smoke+Text
   m_TagString: FxTemporaire
@@ -23469,7 +23469,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   OnlyDeactivate: 0
---- !u!82 &7409553172765284569
+--- !u!82 &8041424284187038029
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
